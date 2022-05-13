@@ -1,4 +1,4 @@
-# Data analysis in PySpark hive implementation
+# Data analysis in PySpark HiveQL implementation
 Dataset: Clinical trial dataset 2021, Mesh and Pharma
 
 Question 1: The number of studies in the dataset.
